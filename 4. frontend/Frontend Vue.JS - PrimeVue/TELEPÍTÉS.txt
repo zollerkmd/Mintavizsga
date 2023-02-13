@@ -1,0 +1,15 @@
+1. 
+
+vue.config.js - fájlban a backend elérési útját be kell állítani
+
+2. 
+
+npm install
+
+3.
+
+npm run serve
+
+4. 
+
+:)
